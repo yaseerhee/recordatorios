@@ -1,0 +1,25 @@
+name: Recordatorios de rutina
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+
+jobs:
+  send-reminder:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Get reminder
+        run: |
+          echo "El recordatorio actual es: $(cat recordatorios.txt)"
+
+      - name: Send reminder
+        uses: actions/applescript@v1
+        with:
+          script: |
+            set reminder to "$(cat recordatorios.txt)"
+            tell application "Siri"
+              speak reminder
+            end tell
