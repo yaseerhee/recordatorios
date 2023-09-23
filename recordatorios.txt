@@ -1,1 +1,14 @@
-
+**7:00** | **Buenos días Don José, Hoy va a ser un gran día!**
+**7:30** | **Recuerda que hoy tienes una analítica de sangre.**
+**8:00** | **Es la hora del desayuno! Recuerda tomarte la pastilla que te recetó el Dr. Manuel.**
+**9:00** | **Que buen día hace hoy, ¿porque no salir a dar un paseo?**
+**10:00** | **Acércate al Centro Cívico de Juan de la Cierva para jugar a las damas con tus amigos.**
+**12:00** | **Hora de volver a casa Don José.**
+**13:00** | **Tómate un descanso.**
+**14:00** | **Mmmm... Es la hora de comer!**
+**15:00** | **Porque no echarnos una pequeña siesta**
+**16:00** | **Buenas tardes Don José, Hora de visitar a Juan y jugar con los nietos.**
+**20:00** | **Es hora de volver a casa.**
+**21:00** | **La cena está lista y empiezan las noticias que más le gustan.**
+**22:00** | **Recuerde tomarse la medicación antes de Dormir.**
+**23:00** | **Buenas noches Don José, mañana va a ser un maravilloso día! Descanse y recargue energías para la gran aventura que le viene.**
